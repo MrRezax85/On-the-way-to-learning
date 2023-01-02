@@ -1,5 +1,6 @@
 # The square and cube of numbers project
 # پروژه مربع و مکعب اعداد
+
 print("Display square and cube numbers")
 
 # Receive the number as a float and store it in the "x" variable.
